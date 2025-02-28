@@ -5,7 +5,7 @@
 https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats?select=End+of+Season+Teams.csv 
 
 ## Structure du Projet
-
+```
 projet_nba/
 ├── data/                  # Données brutes et traitées
 │   ├── raw/               # Données brutes collectées
@@ -22,3 +22,4 @@ projet_nba/
 ├── .gitignore             # Fichiers à ignorer par Git
 ├── requirements.txt       # Dépendances Python
 └── README.md              # Documentation du projet
+```
